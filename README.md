@@ -4,7 +4,7 @@ A scalable, production-ready analytics platform for tracking website and mobile 
 
 ## 🚀 Live Demo
 
-**Deployment URL:** [Your Live URL Here - Auto-deployed via Lovable]
+**Deployment URL:** https://analitics-hub-ai.lovable.app
 
 ## 👤 Author
 
